@@ -253,5 +253,7 @@ We support [versions](Spec.md).
 
 > ### Build the table for the mapping of column and java type.
 > Based on standard docs (JDBC Document)
+    comd>type forthe check
+    
 
 
